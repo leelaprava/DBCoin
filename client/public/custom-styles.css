@@ -1,0 +1,67 @@
+			  
+.company-details-name,
+.company-details-price,
+.company-details-attr, 
+.company-details-value,
+.company-name-row,
+.company-row{
+font-family: 'Gotham SSm A', 'Gotham SSm B', 'Gotham Medium', 'Helvetica', 'Arial', 'sans-serif';
+font-weight: 500;
+line-height: 1;
+font-size: 1rem;
+padding-left: 1.5rem !important; 
+text-transform: uppercase !important;
+}
+
+.company-name-row {
+padding: 1rem;
+background-color: #015187;
+color: #f4f5f6
+}
+
+.company-text {
+color: #015187;
+}
+
+.company-icon-bg {
+background-color: #015187;
+color: #f4f5f6
+}
+
+.company-row {
+padding: 1rem;
+}
+
+.company-row-alt > *{
+padding: 1rem;
+background-color:	#e4e7ea;
+}
+
+.company-details-name {
+font-size: 1.5rem;
+}
+
+.company-details-price {
+font-size: 3rem;
+padding-top: 0.5rem !important; 
+}
+
+.company-details-attr {
+font-size: 1rem;
+font-weight: 700;
+color:  '#8f9ba6';
+}
+
+.company-details-value {
+font-weight: 700;
+font-size: 1.5rem;
+padding-top: 0.75rem ; 
+display: flex;
+}
+
+.odometer{
+font-size: 3em;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+background-color: rgba(0, 0, 255, 0.03); }
