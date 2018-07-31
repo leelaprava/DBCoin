@@ -9,9 +9,9 @@ import java.sql.SQLException;
 @Service
 public class ConnectionManager {
 
-    private static final String USERNAME = "rrprabhu";
-    private static final String PASSWORD = "pra$10bhu";
-    private static final String JDBC_ORACLE_CONN = "jdbc:oracle:thin:@oracle.cise.ufl.edu:1521:orcl";
+    private static final String USERNAME = "******";
+    private static final String PASSWORD = "*******";
+    private static final String JDBC_ORACLE_CONN = "*****";
     private static Connection connection = null;
     private static ConnectionManager connectionManager = null;
 
